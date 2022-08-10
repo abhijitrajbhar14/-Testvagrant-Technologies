@@ -1,0 +1,21 @@
+
+Venus 
+Carbon Dioxide , Nitrogen
+0
+No
+Earth
+Nitrogen , Oxygen
+1
+No
+Jupitor
+Hydrogen , Helium
+79
+yes
+Saturn
+Hydrogen , Helium
+83
+yes
+Uranus
+Hydrogen , Helium, Methane
+27
+yes
