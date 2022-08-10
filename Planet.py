@@ -1,3 +1,10 @@
+# ABHIJIT  RAJBHAR 
+# ASANSOL Engineering COLLEGE
+# 2022
+# Mob : 8210420813
+# abhijitrajbhar14@gmail.com 
+
+
 class Planet:
     def __init__(self,pname,agas,moons,rings):
         self.pname = pname
@@ -35,10 +42,5 @@ for i in range(t):
 cobj = Calculation(plist)
 cobj.moon()
 cobj.gas()
-
-
-
-
-
 
 
